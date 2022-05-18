@@ -1,0 +1,37 @@
+.title {
+    background-color: #05192d;
+    color: white;
+    text-align: center;
+    padding: 3%;
+}
+
+#myform {
+    text-align: center;
+    padding: 5%;
+    padding-left: 10%;
+}
+
+.search-bar {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    height: 2.2rem;
+    width: 30%;
+    border: 1px solid;
+    margin: 0 5%;
+}
+
+.card-container {
+    color: white;
+    text-align: center;
+    background-color: #05192d;
+    /* padding: 5% 0; */
+    height: 371px;
+}
+
+.card-text {
+    font-size: 1.8rem;
+}
+
+.first-text {
+    padding-top: 6%;
+}
